@@ -16,7 +16,7 @@ have the following options:
 
 ## ASSUMPTIONS ##
 
-1. A player controls from 𝐦𝐢𝐧_𝐧𝐨_𝐡𝐞𝐫𝐨𝐞𝐬 to 𝐦𝐚𝐱_𝐧𝐨_𝐡𝐞𝐫𝐨𝐞𝐬 heroes. The exact number of heroes is determined by a choice of the player in the initial phase of the game.
+1. A player controls from min_no_heroes to max_no_heroes heroes. The exact number of heroes is determined by a choice of the player in the initial phase of the game.
 
 2. Each hero can be under the influence of maximum one potion at any time.
 
