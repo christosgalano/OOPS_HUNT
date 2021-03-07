@@ -2,7 +2,7 @@
 
 ***This project aims to simulate a role playing game (linux terminal only)***
 
-## COMPILATION ##
+## Compilation ##
 
 There is a simple Makefile for compiling the program. In particular, we run make from the directory that contains it to do the build and then we
 have the following options:
@@ -14,7 +14,7 @@ have the following options:
 - make clean    : deletes the executable game.exe and needs to be rebuilt
 
 
-## ASSUMPTIONS ##
+## Assumptions ##
 
 1. A player controls from min_no_heroes to max_no_heroes heroes. The exact number of heroes is determined by a choice of the player in the initial phase of the game.
 
