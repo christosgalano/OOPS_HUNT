@@ -46,7 +46,7 @@ have the following options:
     the square is of type common then there is no possibility of a battle. There will simply be a message about what happened when he entered this square (if there is a battle then
     player won because if he had lost he would have been automatically transferred to the square he had visited prior to entering the common square).
 
-11. Since the user simply has access to the game and not the implementation, unnecessary checks are ingored (like that the indexes are nout of the array bounds) because the implementation ensures that
+11. Since the user simply has access to the game and not the implementation, unnecessary checks are ingored (like that the indexes are nοτ out of the array bounds) because the implementation ensures that
     there is no possibility of such thing happening.
 
 12. It is considered that there are no problems with memory allocation and that new does not return NULL and does not throw an exception under any circumstances.
