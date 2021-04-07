@@ -1,6 +1,6 @@
 # Documentation #
 
-***This project aims to simulate a role playing game (linux terminal only)***
+***OOP'S HUNT aims to simulate a role playing game (linux terminal only)***
 
 ## Compilation ##
 
