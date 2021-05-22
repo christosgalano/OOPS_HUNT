@@ -4,7 +4,7 @@ SOURCE  := src
 BIN 	:= bin/exec
 
 # Compiler
-CXX = g++
+CXX := g++
 
 # Non-optional compiler flags like standard, -g, -Wall, -Wextra, -Werror etc.
 CXXFLAGS := -std=c++11
